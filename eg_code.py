@@ -1,4 +1,6 @@
 # eg_code.py
+''' Example code to show timings
+'''
 
 import time
 import datetime
@@ -15,5 +17,8 @@ def eg_func2():
     time.sleep(t)
                
                
-#if __main__ == '__name__':
-#    eg_func()
+if __name__ == '__main__':
+    eg_func1()
+    eg_func2()
+    
+    
