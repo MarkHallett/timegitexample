@@ -11,7 +11,7 @@ def eg_func1():
     function to cause a delay.
     '''
     print datetime.datetime.now()
-    time.sleep(3)
+    time.sleep(6)
     print datetime.datetime.now()
 
 def eg_func2():
