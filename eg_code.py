@@ -8,7 +8,7 @@ import random
 
 def eg_func1():
     print datetime.datetime.now()
-    time.sleep(2)
+    time.sleep(3)
     print datetime.datetime.now()
 
 def eg_func2():
