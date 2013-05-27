@@ -8,7 +8,7 @@ import random
 
 def eg_func1():
     '''
-    function to cause a delay
+    function to cause a delay.
     '''
     print datetime.datetime.now()
     time.sleep(3)
