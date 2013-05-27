@@ -12,7 +12,8 @@ def eg_func1():
     print datetime.datetime.now()
 
 def eg_func2():
-    t = random.uniform(1,2)
+    #t = random.uniform(1,2)
+    t = 0
     print t
     time.sleep(t)
                
